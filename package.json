@@ -12,9 +12,16 @@
   ],
   "author": "Raphael Pigulla <pigulla@four66.com>",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigulla/iradiator-plugin-ping.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pigulla/iradiator-plugin-ping/issues"
+  },
   "dependencies": {
     "ping": "0.1.10"
-  }
+  },
   "peerDependencies": {
     "iradiator": "0.1"
   }
