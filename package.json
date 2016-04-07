@@ -20,9 +20,13 @@
     "url": "https://github.com/pigulla/iradiator-plugin-ping/issues"
   },
   "dependencies": {
+    "bluebird": "3.3.4",
     "ping": "0.1.10"
   },
   "peerDependencies": {
-    "iradiator": "0.1"
+    "iradiator": "0",
+    "immutable": "3",
+    "joi": "8",
+    "react": "0.14"
   }
 }
